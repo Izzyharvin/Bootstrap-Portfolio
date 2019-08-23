@@ -5,3 +5,29 @@
     border-top: solid teal 8px;
     text-align: center;  
 }
+@media only screen and (max-width: 980px) {
+	.wrapper {
+	  width:100%;
+	}
+	ul {
+	  float: right;
+	  margin-left: 0px;
+	  position: relative;
+	  right: none;
+	}
+  }
+  
+  /*Tablet*/
+  @media only screen and (max-width: 768px) {
+	.wrapper {
+	  width:100%;
+	}
+  }
+  
+  /*Phone*/
+  @media only screen and (max-width: 640px) {
+	.wrapper {
+	  width:100%;
+	}
+  }
+  
