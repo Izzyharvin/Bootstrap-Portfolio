@@ -8,9 +8,10 @@ ul {
 .footer {
     max-width: 100%;
     height: 80px;
-    background-color:grey;
+    background-color: lightgrey;
     border-top: solid teal 8px;
     text-align: center;  
+    padding: 4%;
 }
 
 @media only screen and (max-width: 980px) {
