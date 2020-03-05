@@ -45,3 +45,19 @@
 .github-button {
   margin-right: 5px;
 }
+
+/* .pimg1, .pimg2, .pimg3 {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  fixed = paraliax
+  scroll = normal
+  background-attachment: fixed;
+} */
+
+/* .pimg1 {
+  background-image: url("../images/hangman.jpg");
+  min-height: 600px;
+} */
